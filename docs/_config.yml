@@ -1,0 +1,7 @@
+title: CLH Data Pods Documentation
+description: Modular, federated metadata framework for community-led housing.
+baseurl: ""
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed

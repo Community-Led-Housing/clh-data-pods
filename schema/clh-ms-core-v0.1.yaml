@@ -1,0 +1,24 @@
+title: Community-Led Housing Core Schema
+version: v0.1
+type: object
+properties:
+  id:
+    type: string
+    format: uri
+  type:
+    type: string
+    enum: [Entity, Site, Member, Evaluation]
+  name:
+    type: string
+  created:
+    type: string
+    format: date-time
+  metadata:
+    type: object
+    properties:
+      provenance:
+        type: string
+      confidentiality:
+        type: string
+        enum: [public, internal, private]
+required: [id, type, name]

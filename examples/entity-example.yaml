@@ -1,0 +1,7 @@
+id: urn:uuid:1234
+name: Wooncoöperatie Tackenborg
+type: Entity
+created: 2025-04-01T12:00:00Z
+metadata:
+  provenance: self-declared
+  confidentiality: internal
