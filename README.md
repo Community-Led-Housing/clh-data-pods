@@ -98,6 +98,19 @@ Content and schemas are licensed under [CC-BY-SA 4.0](LICENSE).
 
 ---
 
+## 🔮 Roadmap
+
+See [`ROADMAP.md`](./ROADMAP.md) for planned features and future capabilities, including:
+
+- Field-level encryption and selective disclosure
+- Federation and identity-based trust models
+- JSON-LD and semantic web compatibility
+- Role-based data governance
+
+These are under active discussion in the [Cooperative Data Ecosystem canvas](https://chatgpt.com/canvas/shared/681b53da19048191b4ccf885cfeb9093).
+
+---
+
 ## 🤝 Contributions
 
 We welcome contributions from:
