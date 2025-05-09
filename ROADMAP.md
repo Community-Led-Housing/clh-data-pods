@@ -24,6 +24,9 @@ This roadmap outlines the current and planned development milestones for the Com
 - 🔎 Role-based access and trust metadata
   - Consent tracking and provenance anchors
   - Machine-processable access suggestions
+- 🌍 Federated pod discovery using DNS TXT records and `links` metadata
+  - Enables sovereign pod hosting with declared registry integration
+  - Supports validation and synchronization tooling
 - 🧠 JSON-LD and RDF schema mapping layer (optional)
 - 🌍 Federation-ready structure for community-hosted pods
   - External references and optional pull/sync tooling
