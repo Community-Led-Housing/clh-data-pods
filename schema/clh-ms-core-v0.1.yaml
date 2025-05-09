@@ -21,4 +21,19 @@ properties:
       confidentiality:
         type: string
         enum: [public, internal, private]
+  links:
+    type: object
+    properties:
+      self:
+        type: string
+        format: uri
+      registry:
+        type: string
+        format: uri
+      schema:
+        type: string
+        format: uri
+      publisher:
+        type: string
+        format: uri
 required: [id, type, name]

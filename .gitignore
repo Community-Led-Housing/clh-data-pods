@@ -1,0 +1,54 @@
+# System and OS metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Editor and IDE folders
+.vscode/
+.idea/
+*.swp
+*.bak
+*.tmp
+
+# Python tooling
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+env/
+
+# Node/JS (if ever used)
+node_modules/
+npm-debug.log
+yarn.lock
+
+# Build/Export artifacts
+*.log
+*.out
+*.csv~
+*.zip
+*.tar.gz
+export/
+output/
+
+# Jekyll
+_site/
+.jekyll-cache/
+docs/_site/
+docs/.sass-cache/
+
+# GitHub Pages and DNS
+CNAME~
+
+# Local testing overrides and drafts
+*.local.yaml
+*.test.yaml
+sandbox/
+drafts/
+examples/*.tmp.yaml
+
+# Patch files
+patches/applied/
+*.patch
