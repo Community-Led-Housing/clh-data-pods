@@ -1,0 +1,27 @@
+name: Sync Schema from clh-ms-schema
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * 1'  # Weekly on Monday at 03:00 UTC
+
+jobs:
+  sync-schema:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout clh-data-pods
+        uses: actions/checkout@v3
+
+      - name: Fetch latest schema from clh-ms-schema
+        run: |
+          mkdir -p schema
+          curl -L https://raw.githubusercontent.com/Community-Led-Housing/clh-ms-schema/main/core/v0.1.yaml -o schema/clh-ms-core-v0.1.yaml
+          curl -L https://raw.githubusercontent.com/Community-Led-Housing/clh-ms-schema/main/core/v0.2.yaml -o schema/clh-ms-core-v0.2.yaml || echo "v0.2 not yet available"
+
+      - name: Commit and push changes if any
+        run: |
+          git config user.name "Schema Sync Bot"
+          git config user.email "sync-bot@communityledhousing.org"
+          git add schema/*.yaml
+          git diff --cached --quiet || git commit -m "Sync schema from clh-ms-schema"
+          git push
