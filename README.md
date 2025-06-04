@@ -107,7 +107,7 @@ See [`ROADMAP.md`](./ROADMAP.md) for planned features and future capabilities, i
 - JSON-LD and semantic web compatibility
 - Role-based data governance
 
-These are under active discussion in the [Cooperative Data Ecosystem canvas](https://chatgpt.com/canvas/shared/681b53da19048191b4ccf885cfeb9093).
+These are under active discussion in the [Cooperative Data Ecosystem canvas](https://discourse.cooperativehousing.eu/t/welcome-to-cooperative-housing-europe/5).
 
 ---
 
