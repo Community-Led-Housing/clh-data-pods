@@ -11,4 +11,4 @@ Use the navigation to explore:
 
 - [Specification](specification.html)
 - [Usage Guide](usage-guide.html)
-- [Schemas and Examples](../schema/)
+- [Schemas and Examples](https://schema.community-led-housing.org/)
