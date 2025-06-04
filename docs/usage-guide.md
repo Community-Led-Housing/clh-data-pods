@@ -3,8 +3,6 @@ layout: page
 title: Usage Guide
 ---
 
-# Usage Guide
-
 # Community-Led Housing Metadata Schema
 
 The Community-Led Housing Metadata Schema is a shared framework for describing cooperative and community-driven housing initiatives. It supports:
