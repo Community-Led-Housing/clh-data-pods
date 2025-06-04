@@ -72,4 +72,4 @@ This roadmap outlines the current and planned development milestones for the Com
 Proposals and design notes are welcome via:
 - GitHub Discussions or Issues
 - [design-notes/](./design-notes/)
-- Strategic concept canvas: [Cooperative Data Ecosystem]([https://chatgpt.com/canvas/shared/681b53da19048191b4ccf885cfeb9093](https://discourse.cooperativehousing.eu/t/welcome-to-cooperative-housing-europe/5))
+- Strategic concept canvas: [Cooperative Data Ecosystem](https://discourse.cooperativehousing.eu/t/welcome-to-cooperative-housing-europe/5)
