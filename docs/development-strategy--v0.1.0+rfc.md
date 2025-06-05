@@ -97,6 +97,7 @@ Future work will include supporting multilingualization, credential verification
 
 ## License
 
+[!Creative Commons Attribution-ShareAlike 4.](https://mirrors.creativecommons.org/presskit/icons/sa.svg)
 This document is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
 You are free to share and adapt the material for any purpose, even commercially, under the following terms:
@@ -106,5 +107,40 @@ You are free to share and adapt the material for any purpose, even commercially,
 
 ### Attribution
 <div class="license-container">
+<template id="cc-by-sa" class="tool license">
+    <header>
+        <h3>CC BY-SA 4.0</h3>
+        <span class="tool-icons">
+            <svg>
+                <use href="https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/icons/cc-icons.svg#cc-logo"></use>
+            </svg>
+            <svg>
+                <use href="https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/icons/cc-icons.svg#cc-by"></use>
+            </svg>
+            <svg>
+                <use href="https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/icons/cc-icons.svg#cc-sa"></use>
+            </svg>
+        </span>
+        <h4>Creative Commons Attribution-ShareAlike 4.0 International</h4>
+    </header>
+
+    <div class="description">
+        <p>This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes. If others remix, adapt, or build upon the material, they must license the modified material under identical terms.</p>
+    </div>
+
+    <dl class="conditions-definitions">
+        <div>
+            <dt class="icon-attach cc-by">BY</dt>
+            <dd>Credit must be given to you, the creator.</dd>
+        </div>
+
+        <div>
+            <dt class="icon-attach cc-sa">SA</dt>
+            <dd>Adaptations must be shared under the same terms.</dd>
+        </div>
+    </dl>
+
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">See the License Deed</a>
+</template>
 <a href="https://github.com/Community-Led-Housing/clh-data-pods/blob/develop/docs/development-strategy--v0.1.0%2Brfc.md">Development Strategy for CLH Data Pods Ecosystem</a> © 2025 by <a href="https://www.linkedin.com/in/robertjanvisser/">Robert Jan Visser (Groningen, The Netherlands), acting through his sole proprietorship Universal Design, KvK 65840801.</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 </div>
