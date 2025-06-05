@@ -98,7 +98,7 @@ Future work will include supporting multilingualization, credential verification
 ## License
 [![Creative Commons Attribution-ShareAlike 4.0](https://github.com/Community-Led-Housing/clh-data-pods/blob/develop/docs/cc-by-sa-4.0.jpg)](https://creativecommons.org/licenses/by-sa/4.0/)
 <div class="license-container">
-This document <a href="https://github.com/Community-Led-Housing/clh-data-pods/blob/develop/docs/development-strategy--v0.1.0%2Brfc.md">Development Strategy for CLH Data Pods Ecosystem</a> © 2025 by <a href="https://www.linkedin.com/in/robertjanvisser/">Robert Jan Visser (Groningen, The Netherlands)</a>, acting through his sole proprietorship <a href="https://www.universaldesign.nl/"Universal Design, KvK 65840801.</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><br><br><br>
+This document <a href="https://github.com/Community-Led-Housing/clh-data-pods/blob/develop/docs/development-strategy--v0.1.0%2Brfc.md">Development Strategy for CLH Data Pods Ecosystem</a> © 2025 by <a href="https://www.linkedin.com/in/robertjanvisser/">Robert Jan Visser (Groningen, The Netherlands)</a>, acting through his sole proprietorship <a href="https://www.universaldesign.nl/">Universal Design, KvK 65840801.</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><br><br><br>
 </div>
 
 You are free to share and adapt the material for any purpose, even commercially, under the following terms:
