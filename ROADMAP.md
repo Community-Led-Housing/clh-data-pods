@@ -38,7 +38,7 @@ This roadmap outlines the current and planned development milestones for the Com
 
 ## 🧭 v0.3 – Interoperability and Linked Commons
 
-- 🌍 Cohabitat.io and data platform compatibility mappings
+- 🌍 [Cohabitat.io](https://www.cohabitat.io/en), [co-lab-research](https://mapping.co-lab-research.net/) and data platform compatibility mappings
 - 🧠 Shared vocabulary reference across EU/national housing domains
 - 📤 API/export for registry content and pod discovery
 - 🔗 Support for JSON-LD and lightweight RDF export
