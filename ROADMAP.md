@@ -38,7 +38,7 @@ This roadmap outlines the current and planned development milestones for the Com
 
 ## 🧭 v0.3 – Interoperability and Linked Commons
 
-- 🌍 [Cohabitat.io](https://www.cohabitat.io/en), [co-lab-research](https://mapping.co-lab-research.net/), [cltweb](https://www.cltweb.org/resources/clt-directory/),  https://provocations.darkmatterlabs.org/urban-land-ownership-mapping-towards-a-just-transition-of-europes-built-environment-1-72ff315fefff) and data platform compatibility mappings
+- 🌍 [Cohabitat.io](https://www.cohabitat.io/en), [co-lab-research](https://mapping.co-lab-research.net/), [cltweb](https://www.cltweb.org/resources/clt-directory/), and data platform compatibility mappings
 - 🧠 Shared vocabulary reference across EU/national housing domains
 - 📤 API/export for registry content and pod discovery
 - 🔗 Support for JSON-LD and lightweight RDF export
