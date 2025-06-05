@@ -96,29 +96,15 @@ Future work will include supporting multilingualization, credential verification
 ---
 
 ## License
+[![Creative Commons Attribution-ShareAlike 4.0](https://github.com/Community-Led-Housing/clh-data-pods/blob/develop/docs/cc-by-sa-4.0.jpg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-[!Creative Commons Attribution-ShareAlike 4.](https://mirrors.creativecommons.org/presskit/icons/sa.svg)
 This document is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+<div class="license-container">
+<a href="https://github.com/Community-Led-Housing/clh-data-pods/blob/develop/docs/development-strategy--v0.1.0%2Brfc.md">Development Strategy for CLH Data Pods Ecosystem</a> © 2025 by <a href="https://www.linkedin.com/in/robertjanvisser/">Robert Jan Visser (Groningen, The Netherlands), acting through his sole proprietorship Universal Design, KvK 65840801.</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+</div>
 
 You are free to share and adapt the material for any purpose, even commercially, under the following terms:
 
 * **Attribution** — You must give appropriate credit and indicate if changes were made.
 * **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-### Attribution
-<div class="license-container">
-        <h3>CC BY-SA 4.0</h3>
-        <span class="tool-icons">
-            <svg>
-                <use href="https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/icons/cc-icons.svg#cc-logo"></use>
-            </svg>
-            <svg>
-                <use href="https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/icons/cc-icons.svg#cc-by"></use>
-            </svg>
-            <svg>
-                <use href="https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/svg/cc/icons/cc-icons.svg#cc-sa"></use>
-            </svg>
-        </span>
-        <h4>Creative Commons Attribution-ShareAlike 4.0 International</h4>  
-<a href="https://github.com/Community-Led-Housing/clh-data-pods/blob/develop/docs/development-strategy--v0.1.0%2Brfc.md">Development Strategy for CLH Data Pods Ecosystem</a> © 2025 by <a href="https://www.linkedin.com/in/robertjanvisser/">Robert Jan Visser (Groningen, The Netherlands), acting through his sole proprietorship Universal Design, KvK 65840801.</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-</div>
